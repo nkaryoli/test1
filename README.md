@@ -3,4 +3,4 @@ Author: Karyoli
 
 We are working on develop branch.
 
-Original text modified by master branch.
+Update same line in develop
